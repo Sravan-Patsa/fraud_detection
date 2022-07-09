@@ -3,6 +3,6 @@
 print('created for model branch')
 
 def ml():
-    return print("ml output")
+    return print("model output")
 
 ml()
